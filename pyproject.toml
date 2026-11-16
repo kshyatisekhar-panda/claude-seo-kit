@@ -1,0 +1,14 @@
+[project]
+name = "claude-seo-kit"
+version = "2.0.0"
+description = "SEO audits, checks and fixes for Claude Code"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{name = "kshyatisekhar-panda"}]
+dependencies = ["requests>=2.32.4,<3", "urllib3>=2.5.0,<3", "beautifulsoup4>=4.12,<5", "defusedxml>=0.7.1,<1"]
+
+[project.urls]
+Repository = "https://github.com/kshyatisekhar-panda/claude-seo-kit"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

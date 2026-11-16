@@ -1,0 +1,21 @@
+{
+  "name": "claude-seo-kit",
+  "owner": {
+    "name": "kshyatisekhar-panda"
+  },
+  "metadata": {
+    "description": "Claude SEO Kit: SEO audits, fixes and tools for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "claude-seo-kit",
+      "source": "./",
+      "description": "SEO toolkit for Claude Code: audits with scores, technical SEO, sitemaps, structured data, content, local SEO, AI search, code fixes, migrations, CI checks, reports, logs and video SEO.",
+      "author": {
+        "name": "kshyatisekhar-panda"
+      },
+      "category": "marketing",
+      "homepage": "https://github.com/kshyatisekhar-panda/claude-seo-kit"
+    }
+  ]
+}

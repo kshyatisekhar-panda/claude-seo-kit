@@ -1,0 +1,14 @@
+{
+  "name": "claude-seo-kit",
+  "version": "2.0.0",
+  "description": "SEO toolkit for Claude Code: site audits with scores, technical SEO, sitemaps, structured data, content quality, local SEO and AI search, plus fixing issues in code, migrations, content refreshes, CI checks, branded reports, log analysis and video SEO.",
+  "author": {
+    "name": "kshyatisekhar-panda",
+    "url": "https://github.com/kshyatisekhar-panda"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/kshyatisekhar-panda/claude-seo-kit",
+  "repository": "https://github.com/kshyatisekhar-panda/claude-seo-kit",
+  "keywords": ["seo", "audit", "technical-seo", "schema", "structured-data", "sitemap", "core-web-vitals",
+               "local-seo", "ai-search", "geo", "nextjs", "astro", "ci"]
+}
